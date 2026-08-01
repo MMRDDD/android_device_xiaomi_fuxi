@@ -10,7 +10,6 @@ LOCAL_OVERRIDES_PACKAGES := \
     Eleven \
     Etar \
     Music \
-	Note \
     Seedvault \
 	Starmoment \
     Updater \
